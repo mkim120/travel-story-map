@@ -1,2 +1,7 @@
 # travel-story-map
-Travel Story Map using Google Maps API to create a story map of my travels across the United States and the rest of the world.
+Markers can be clicked for more details on my experiences at that location.
+
+# WIP:
+- adding images to the marker information
+- more markers for locations I want to visit
+- customizing marker appearance
